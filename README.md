@@ -1,5 +1,34 @@
 # 💫 About Me:
-I'm currently working on:<br>  -> personal coding projects<br>I'm looking to collaborate on:<br>  -> open-source project<br>  -> App development and All projects<br>I'm looking for help in:<br>  -> Advanced java & DSA<br>  -> Backend development<br>I'm currently learning:<br>  -> Python<br>  -> Java<br>  -> Data Structures & Algorithms<br>Ask me about: <br>  -> Coding basics<br>  -> App Ideas<br>  -> Tech for students<br>Fun fact:<br>  -> I love space, computers, and learning new technologies every daty
+🔭 I’m currently working on:
+
+   -> Health-Tech Monitoring Project (Arduino based)
+   -> Personal coding projects
+
+🤝 I’m looking to collaborate on:
+
+   -> Open-source projects
+   -> App development & AI projects
+
+🆘 I’m looking for help with:
+
+   -> Advanced Java & DSA
+   -> Backend development
+
+🌱 I’m currently learning:
+
+   -> Python
+   -> Java
+   -> Data Structures & Algorithms
+
+💬 Ask me about:
+
+   -> Coding basics
+   -> App ideas
+   -> Tech for students
+
+⚡ Fun fact:
+
+   -> I love space, computers, and learning new technologies every day 🚀
 
 
 ## 🌐 Socials:
