@@ -1,34 +1,34 @@
 # 💫 About Me:
 🔭 I’m currently working on:
 
-   -> Health-Tech Monitoring Project (Arduino based)
-   -> Personal coding projects
+   -> Health-Tech Monitoring Project (Arduino based)<br>
+   -> Personal coding projects<br><br>
 
 🤝 I’m looking to collaborate on:
 
-   -> Open-source projects
-   -> App development & AI projects
+   -> Open-source projects<br>
+   -> App development & AI projects<br>
 
 🆘 I’m looking for help with:
 
-   -> Advanced Java & DSA
-   -> Backend development
+   -> Advanced Java & DSA<br>
+   -> Backend development<br>
 
 🌱 I’m currently learning:
 
-   -> Python
-   -> Java
-   -> Data Structures & Algorithms
+   -> Python<br>
+   -> Java<br>
+   -> Data Structures & Algorithms<br>
 
 💬 Ask me about:
 
-   -> Coding basics
-   -> App ideas
-   -> Tech for students
+   -> Coding basics<br>
+   -> App ideas<br>
+   -> Tech for students<br>
 
 ⚡ Fun fact:
 
-   -> I love space, computers, and learning new technologies every day 🚀
+   -> I love space, computers, and learning new technologies every day 🚀<br>
 
 
 ## 🌐 Socials:
