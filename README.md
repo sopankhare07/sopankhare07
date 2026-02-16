@@ -2,7 +2,7 @@
 🔭 I’m currently working on:
 
    -> Health-Tech Monitoring Project (Arduino based)<br>
-   -> Personal coding projects<br><br>
+   -> Personal coding projects<br>
 
 🤝 I’m looking to collaborate on:
 
